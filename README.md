@@ -19,13 +19,10 @@ This project demonstrates my understanding of HTML, CSS, and JavaScript by imple
        <li>JavaScript</li>
 </ul>
 
-## APIs
-<p>None.</p>
-
 ## Installation
 
 <p>Clone the repository and open 'index.html' in your browser or click on the githubpage link on the right since it is public.</p>
 
 ## Purpose
 
-<p>This project was originally created to demonstrate my understanding of JavaScript fundamentals during my coursework.</p>
+<p>Demonstrates my understanding of front-end web development through HTML, CSS, and JavaScript.</p>
