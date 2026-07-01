@@ -26,3 +26,7 @@ This project demonstrates my understanding of HTML, CSS, and JavaScript by imple
 ## Purpose
 
 <p>Demonstrates my understanding of front-end web development through HTML, CSS, and JavaScript.</p>
+
+## What I learned
+
+<p>This project strengthened my understanding of JavaScript event handling, DOM manipulation, responsive layouts, and implementing interactive UI elements.</p>
